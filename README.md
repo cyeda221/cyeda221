@@ -1,4 +1,4 @@
-# Hi, I'm Maria Syed 👋
+# Hi, I'm Maria Syed 
 
 ### Software Quality Assurance Engineer | Manual QA | AI Application Testing
 
